@@ -1,10 +1,15 @@
 # Loser-v1
 This is a toolkit maked by bittyrat (bittyrat9@gmail.com) 
+
 include:
+
 [1]: network scanner
+
 [2]: port scanner
-[3]:encryption and decrytion
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/6fa19d5d-656e-41b4-b99b-5d9b3fbbf9fc" />
+
+[3]:encryption and decryption
+
+<img width="976" height="508" alt="image" src="https://github.com/user-attachments/assets/7d05ff26-7957-4548-a942-40df09ebe6fd" />
 
 I welcome all feedback and suggestions to help improve this toolset.
 
